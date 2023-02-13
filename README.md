@@ -1,9 +1,6 @@
 # awesome-spider
 
 --------------------------
-
-
-
 <a href="https://brightdata.grsm.io/zhangchaoran5322"><img src="https://user-images.githubusercontent.com/4927218/119819524-08f58200-bf23-11eb-93f5-771924a3fb83.png"></a>
 
 [Brigtdata，旧名Luminati](https://brightdata.grsm.io/zhangchaoran5322) 目前海外最牛的代理 IP 提供商，代理抓取成功率 99%。 现在在搞优惠活动，需要高质量稳定代理的可以考虑一下，客户使用任何套餐都送 150-250 美金. 点击链接注册后根据邮件联系中文客服。
